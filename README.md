@@ -1,4 +1,4 @@
-# Online-Shopping-Store
+# StoreSome
 A program used to buy and sell products using files for the data.  (Structured Programming Group Project)
 
 # Detailed Demo
